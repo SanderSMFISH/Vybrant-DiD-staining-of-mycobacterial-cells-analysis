@@ -1,0 +1,3 @@
+Example dataset can be found on zenodo: .
+
+Full Dataset for the macrophage infection experiment can be acquired upon request to the authors.
