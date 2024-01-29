@@ -2,7 +2,7 @@ Analysis Cell Infection Experiment Priyanka (Bacterial infection in Macrophages)
 
 to install python libraries use anaconda and requirements.yml file located in the notebooks folder.
 
-TO install type in anaconda prompt type:
+To install type in anaconda prompt type:
 >cd '/path/to/dataframes folder'
 >conda env create -f requirements.yml
 
@@ -17,3 +17,6 @@ In the Figures folder you can find the figures produced in these notebooks. Some
 In the Data folder you find the raw experimental data used for the analysis.
 
 In the main folder, there is also a powerpoint indicating the most important findings of this analysis.
+
+The data used in this analysis can be found on :
+https://zenodo.org/uploads/10120011
