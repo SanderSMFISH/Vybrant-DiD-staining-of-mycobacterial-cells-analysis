@@ -19,3 +19,6 @@ In the Figures folder you can find the figures produced in these notebooks. Some
 In the Results folder you find the raw experimental data used for the analysis.
 
 In the main folder, there is also a powerpoint indicating the most important findings of this analysis.
+
+The data for the analysis can be found on:
+https://zenodo.org/records/10581851
