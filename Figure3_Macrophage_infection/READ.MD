@@ -19,4 +19,4 @@ In the Data folder you find the raw experimental data used for the analysis.
 In the main folder, there is also a powerpoint indicating the most important findings of this analysis.
 
 The data used in this analysis can be found on :
-https://zenodo.org/uploads/10120011
+https://zenodo.org/records/10120011
